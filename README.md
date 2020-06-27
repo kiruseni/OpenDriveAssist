@@ -5,6 +5,7 @@
 3. SAE J1850 VPW
 4. SAE J1850 PWM
 5. ISO 15765-4 CAN (Controller Area Network)
+
 Возможно получение параметров в соотвестиве со стандартом SAE J1979
 
 Протокол для тестированния был выбран "ISO 14230 Keyword Protocol 2000"
